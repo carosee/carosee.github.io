@@ -4,15 +4,21 @@ background-color:#ffffff;
 background-attachment:fixed;
 font-family: 'helvetica';
 font-size:12px;
-line-height:150%;
 }
 
 .content {
-  margin: 0 auto;
+  width:200px;
+  height:200px;
+  position: fixed;
+  background-color: #00FF00;
+  top: 50%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -100px;
 }
 
 .h1 {
   font-family: 'helvetica';
-  letter-spacing:2px;
-  color:#909090;
+  letter-spacing:20px;
+  color:#efefef;
 }
