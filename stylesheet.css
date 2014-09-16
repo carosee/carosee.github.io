@@ -1,1 +1,18 @@
-stylesheet
+body {
+color:#000000;
+background-color:#ffffff;
+background-attachment:fixed;
+font-family: 'helvetica';
+font-size:12px;
+line-height:150%;
+}
+
+.content {
+  margin: 0 auto;
+}
+
+.h1 {
+  font-family: 'helvetica';
+  letter-spacing:2px;
+  color:#909090;
+}
