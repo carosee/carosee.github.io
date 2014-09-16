@@ -3,7 +3,7 @@ color:#000000;
 background-color:#FFFFFF;
 background-attachment:fixed;
 font-family: 'helvetica';
-font-size:24pt;
+font-size:14pt;
 }
 
 .content {
@@ -23,7 +23,7 @@ a {
 
 h1 {
   font-family: 'helvetica';
-  font-size: 60pt;
+  font-size: 40pt;
   letter-spacing:-10px;
   text-transform:lowercase;
   color:#AFAFAF;
