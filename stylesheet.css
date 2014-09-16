@@ -2,7 +2,7 @@ body {
 color:#000000;
 background-color:#FFFFFF;
 background-attachment:fixed;
-font-family: 'helvetica';
+font-family: 'Open Sans';
 font-size:12pt;
 }
 
@@ -22,7 +22,7 @@ a {
 }
 
 h1 {
-  font-family: 'helvetica';
+  font-family: 'Open Sans';
   font-size: 30pt;
   letter-spacing:10px;
   text-transform:lowercase;
