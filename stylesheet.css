@@ -17,13 +17,13 @@ font-size:12pt;
 }
 
 a {
-  color:#AFAFAF;
+  color:#9F9F9F;
   text-decoration:none;
 }
 
 h1 {
   font-family: 'helvetica';
-  font-size: 40pt;
+  font-size: 30pt;
   letter-spacing:10px;
   text-transform:lowercase;
   color:#AFAFAF;
