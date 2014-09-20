@@ -1,6 +1,8 @@
 body {
 color:#000000;
 background-color:#FFFFFF;
+background-image: url('https://cloud.githubusercontent.com/assets/8602356/4344601/a0c29abe-409a-11e4-819f-6fa0303f3699.jpg');
+background-size:cover;
 font-family: 'Open Sans', georgia, serif;
 font-size:12pt;
 }
