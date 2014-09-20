@@ -1,7 +1,7 @@
 body {
 color:#000000;
 background-color:#FFFFFF;
-background-image: url('https://cloud.githubusercontent.com/assets/8602356/4344601/a0c29abe-409a-11e4-819f-6fa0303f3699.jpg');
+background-image: url('https://cloud.githubusercontent.com/assets/8602356/4344621/a56db5b6-409b-11e4-98b2-3e81c36c23ae.jpg');
 background-size:cover;
 font-family: 'Open Sans', georgia, serif;
 font-size:12pt;
@@ -10,6 +10,7 @@ font-size:12pt;
 .content {
   width:400px;
   background-color: #FFFFFF;
+  background:rgba(255,255,255,0.5);
   position: fixed;
   top: 40%;
   left: 50%;
@@ -28,5 +29,5 @@ h1 {
   line-height:5px;
   letter-spacing:0px;
   text-transform:lowercase;
-  color:#AFAFAF;
+  color:#FFFFFF;
 }
